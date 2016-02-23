@@ -1,7 +1,7 @@
 function catClicker(items){
 	if(!(this instanceof catClicker)){
 		return new catClicker();
-	}
+	} 
 	var left_div = document.getElementById('left_div');
 	var right_div = document.getElementById('right_div');
 	for(var i in items){
