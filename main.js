@@ -20,5 +20,5 @@ function catClicker(items){
 		})(i,counter))
 	}
 }
-var items = [['Katty','cat.png'],['Matty','cat2.png']];
+var items = [['Katty','http://www.hdwalls.in/wp-content/uploads/2014/10/images_of_nice_cats-11.jpg'],['Matty','http://data.whicdn.com/images/30048512/superthumb.jpg']];
 new catClicker(items);
